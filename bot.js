@@ -10,4 +10,4 @@ channel.send(`اشهد ان لا الله الا الله و اشهد ان مح�
 }, 30)
 })
 
-client.login("NTI1NzY0OTMxNDcyMDY0NTM1.Dv7a8g.wl-8NEyBAB4yuvb8ZzJN7kS0vdY");
+client.login("NTI5MjQ4MDY5MTI1MDEzNTI1.DwuEsQ.m176KW0JQsuu3F0NG-X0AUHTAAU");
